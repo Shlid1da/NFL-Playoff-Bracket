@@ -15,8 +15,8 @@ const afcTeams = [
   { name: "Jacksonville Jaguars", seed: 3, code: "jax" },
   { name: "Pittsburgh Steelers", seed: 4, code: "pit" },
   { name: "Houston Texans", seed: 5, code: "hou" },
-  { name: "Los Angeles Chargers", seed: 6, code: "lac" },
-  { name: "Buffalo Bills", seed: 7, code: "buf" }
+  { name: "Buffalo Bills", seed: 6, code: "buf" },
+  { name: "Los Angeles Chargers", seed: 7, code: "lac" },
 ];
 
 const state = { nfc:{wcWins:[], div:[]}, afc:{wcWins:[], div:[]} };
